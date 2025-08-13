@@ -4,6 +4,12 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedro-decastrogomes)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jp.decastro_/)
 
+## 💫 Sobre mim
+
+- 🦾 Entusiasta de Inteligência Artificial.
+- 🌱 Curso o primeiro Bacharelado em Inteligência Artificial da América Latina, na Universidade Federal de Goiás (UFG).
+- 🤖 Trabalho em projetos de **Visão Computacional e NLP**.
+
 ## 💻 Tech Stack
 
 <div align="center">
